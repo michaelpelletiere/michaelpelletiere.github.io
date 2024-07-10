@@ -8,9 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-theme: minima 
-title: <username>'s homepage 
-description: Bookmark this to keep an eye on my project updates! 
+title : simple site
+author :
+  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
+  feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://kbroman.github.io/simple_site
