@@ -2208,18 +2208,6 @@ input, select, textarea {
 				border-radius: 0;
 			}
 
-			.image.main {
-			        text-align: center;
-    			}
-       			.image.main img {
-			        display: block;
-           			margin: 0 auto;
-      			}
-			.image.main p {
-        			margin-top: 10px;
-        			font-size: 16px;
-         			color: #333;
-      			}
 
 /* List */
 
