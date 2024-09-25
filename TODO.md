@@ -5,7 +5,7 @@
 - [x] Update Templated Information
 - [x] Input Profile Picture
 - [x] Update Skills Buttons
-- [ ] Input Resume as a PDF
+- [x] Input Resume as a PDF
 - [ ] Input GitHub Profile as a Link
 - [ ] Input Portfolio Page as a Link
 - [ ] Update Portfolio Page
