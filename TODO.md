@@ -8,3 +8,4 @@
 - [ ] Input Portfolio Page as a Link
 - [ ] Update Portfolio Page
 - [x] Input Profile Picture
+- [ ] Update Skills Buttons
