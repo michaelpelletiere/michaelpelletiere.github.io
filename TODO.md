@@ -8,6 +8,3 @@
 - [x] Input Resume as a PDF
   - [ ] Format the Image to fit on Mobile
 - [ ] Input GitHub Profile as a Link
-- [ ] Input Portfolio Page as a Link
-- [ ] Update Portfolio Page
-
