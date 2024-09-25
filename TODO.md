@@ -7,4 +7,4 @@
 - [ ] Input GitHub Profile as a Link
 - [ ] Input Portfolio Page as a Link
 - [ ] Update Portfolio Page
-- [ ] Input Profile Picture
+- [x] Input Profile Picture
