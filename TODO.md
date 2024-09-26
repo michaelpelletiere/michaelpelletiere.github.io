@@ -21,4 +21,5 @@
 - [ ] Fix Scroll Functions
   - [x] When Click About Me go to About Me
   - [ ] Scroll to about me after x seconds
-- [ ] Fix Mobile Image for Options Menu
+- [ ] Fix Mobile Image for Options Menu 
+  - [ ] Menu Image Downloaded
