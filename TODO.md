@@ -4,7 +4,7 @@
 - [x] Find a Website Template to Use
 - [x] Update Templated Information
   - [ ] Update About Section
-  - [ ] Update Thing I Can Do Section
+  - [ ] Update Things I Can Do Section
 - [x] Input Profile Picture
 - [x] Update Skills Buttons
 - [x] Input Resume as a PDF
