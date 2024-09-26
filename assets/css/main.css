@@ -2208,6 +2208,11 @@ input, select, textarea {
 				border-radius: 0;
 			}
 
+		.image.resume {
+			width: 100%
+			height: auto
+		}
+
 
 /* List */
 
