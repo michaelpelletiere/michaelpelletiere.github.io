@@ -18,6 +18,6 @@
 - [ ] Insert Page Breaks
 - [ ] Fix Contact Section
 - [ ] Fix Scroll Functions
-  - [ ] When Click About Me
+  - [x] When Click About Me go to About Me
   - [ ] Scroll to about me after x seconds
 - [ ] Fix Mobile Image for Options Menu
