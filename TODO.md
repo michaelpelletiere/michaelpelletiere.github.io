@@ -18,3 +18,4 @@
 - [ ] Fix Scroll Functions
   - [ ] When Click About Me
   - [ ] Scroll to about me after x seconds
+- [ ] Fix Mobile Image for Options Menu
