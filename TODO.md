@@ -14,6 +14,7 @@
   - [ ] Edit Resume Border
   - [ ] Shadow on Hover
 - [ ] Input GitHub Profile as a Link
+  - [ ] Input Live Site as Preview
 - [ ] Center Text
 - [ ] Insert Page Breaks
 - [ ] Fix Contact Section
