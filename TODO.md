@@ -9,8 +9,9 @@
 - [x] Update Skills Buttons
 - [x] Input Resume as a PDF
   - [ ] Format the Image to fit on Mobile
-  - [ ] Make Resume Responsive for Size
+  - [x] Make Resume Responsive for Size
   - [ ] Update Intro Paragraph
+  - [ ] Edit Resume Border
 - [ ] Input GitHub Profile as a Link
 - [ ] Center Text
 - [ ] Insert Page Breaks
