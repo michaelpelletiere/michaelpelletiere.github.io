@@ -12,6 +12,7 @@
   - [x] Make Resume Responsive for Size
   - [ ] Update Intro Paragraph
   - [ ] Edit Resume Border
+  - [ ] Shadow on Hover
 - [ ] Input GitHub Profile as a Link
 - [ ] Center Text
 - [ ] Insert Page Breaks
