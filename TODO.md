@@ -15,3 +15,6 @@
 - [ ] Center Text
 - [ ] Insert Page Breaks
 - [ ] Fix Contact Section
+- [ ] Fix Scroll Functions
+  - [ ] When Click About Me
+  - [ ] Scroll to about me after x seconds
