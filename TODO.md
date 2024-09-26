@@ -8,15 +8,15 @@
 - [x] Input Profile Picture
 - [x] Update Skills Buttons
 - [x] Input Resume as a PDF
-  - [ ] Format the Image to fit on Mobile
+  - [x] Format the Image to fit on Mobile
   - [x] Make Resume Responsive for Size
-  - [ ] Update Intro Paragraph
+  - [x] Update Intro Paragraph
   - [ ] Edit Resume Border
   - [ ] Shadow on Hover
-- [ ] Input GitHub Profile as a Link
+- [x] Input GitHub Profile as a Link
   - [ ] Input Live Site as Preview
 - [ ] Center Text
-- [ ] Insert Page Breaks
+- [x] Insert Page Breaks
 - [ ] Fix Contact Section
 - [ ] Fix Scroll Functions
   - [x] When Click About Me go to About Me
