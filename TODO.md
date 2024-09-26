@@ -25,3 +25,4 @@
   - [ ] Scroll to about me after x seconds
 - [ ] Fix Mobile Image for Options Menu 
   - [ ] Menu Image Downloaded
+- [ ] Name instead of Program Manager on Mobile
