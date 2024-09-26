@@ -15,7 +15,9 @@
   - [ ] Shadow on Hover
 - [x] Input GitHub Profile as a Link
   - [ ] Input Live Site as Preview
-- [ ] Center Text
+- [ ] Text
+  - [ ] Center
+  - [ ] Size
 - [x] Insert Page Breaks
 - [ ] Fix Contact Section
 - [ ] Fix Scroll Functions
