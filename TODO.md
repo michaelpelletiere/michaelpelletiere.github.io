@@ -26,3 +26,4 @@
 - [ ] Fix Mobile Image for Options Menu 
   - [ ] Menu Image Downloaded
 - [x] Name instead of Program Manager on Mobile
+- [ ] Add Microsoft Learn
