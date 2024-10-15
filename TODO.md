@@ -3,8 +3,8 @@
 - [x] Create Personal Page using HTML, CSS, Javascript
 - [x] Find a Website Template to Use
 - [x] Update Templated Information
-  - [ ] Update About Section
-  - [ ] Update Things I Can Do Section
+  - [x] Update About Section
+  - [x] Update Things I Can Do Section
 - [x] Input Profile Picture
 - [x] Update Skills Buttons
 - [x] Input Resume as a PDF
